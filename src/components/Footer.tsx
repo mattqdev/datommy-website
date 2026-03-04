@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Hamburger, ArrowRight } from "lucide-react";
+import { Facebook, Instagram, ArrowRight } from "lucide-react";
 
 const Footer = () => {
   return (
